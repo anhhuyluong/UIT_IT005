@@ -1,4 +1,4 @@
-# UIT_IT007: BÀI TẬP THỰC HÀNH MẠNG MÁY TÍNH
+# UIT_IT005: BÀI TẬP THỰC HÀNH MẠNG MÁY TÍNH
 
 ## 🧠 Giới thiệu
 
